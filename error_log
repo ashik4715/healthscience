@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+[15-Oct-2019 08:58:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/iaensonline/public_html/iaensonline/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
+=======
+[14-Oct-2019 10:25:49 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/iaensonline/public_html/dev/vendor/zendframework/zend-diactoros/src/functions/marshal_uri_from_sapi.php on line 83
+>>>>>>> 537f16307d1fcf89c7316e186f9bccced755ff74
